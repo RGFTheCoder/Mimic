@@ -1,5 +1,5 @@
 
-#Mimic
+# Mimic
 
 A fully featured emulator for the [Minecraft](http://minecraft.net) mod [ComputerCraft](http://computercraft.info) that runs straight in your browser.
 
